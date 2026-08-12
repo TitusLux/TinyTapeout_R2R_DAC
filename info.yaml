@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project:        "tt_um_titus_r2r_dac"
+project:
   title:        "4-Bit R-2R DAC"      # 
   author:       "Titus Lux"      # "Titus Lux"
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
