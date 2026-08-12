@@ -887,25 +887,25 @@ mult=1}
 C {code_shown.sym} 2340 -2260 0 0 {name=s1 only_toplevel=false value="
 .include /usr/local/share/pdk/sky130A/libs.ref/sky130_fd_sc_hvl/spice/sky130_fd_sc_hvl.spice
 "}
-C {/home/titus/TinyTapeout_R2R_DAC/sky130_fd_sc_hvl__inv_1.sym} 960 -670 0 0 {name=x2}
+C {sky130_fd_sc_hvl__inv_1.sym} 960 -670 0 0 {name=x2}
 C {vsource.sym} 840 -800 0 0 {name=V7 
 value="3.3"
  savecurrent=false}
 C {gnd.sym} 840 -770 0 0 {name=l1 lab=GND}
 C {gnd.sym} 780 -560 0 0 {name=l8 lab=GND}
-C {/home/titus/TinyTapeout_R2R_DAC/sky130_fd_sc_hvl__inv_1.sym} 2400 -680 0 0 {name=x3}
+C {sky130_fd_sc_hvl__inv_1.sym} 2400 -680 0 0 {name=x3}
 C {vsource.sym} 2280 -810 0 0 {name=V14 
 value="3.3"
  savecurrent=false}
 C {gnd.sym} 2280 -780 0 0 {name=l2 lab=GND}
 C {gnd.sym} 2220 -570 0 0 {name=l6 lab=GND}
-C {/home/titus/TinyTapeout_R2R_DAC/sky130_fd_sc_hvl__inv_1.sym} 3840 -670 0 0 {name=x4}
+C {sky130_fd_sc_hvl__inv_1.sym} 3840 -670 0 0 {name=x4}
 C {vsource.sym} 3720 -800 0 0 {name=V6 
 value="3.3"
  savecurrent=false}
 C {gnd.sym} 3720 -770 0 0 {name=l9 lab=GND}
 C {gnd.sym} 3660 -560 0 0 {name=l10 lab=GND}
-C {/home/titus/TinyTapeout_R2R_DAC/sky130_fd_sc_hvl__inv_1.sym} 5280 -680 0 0 {name=x5}
+C {sky130_fd_sc_hvl__inv_1.sym} 5280 -680 0 0 {name=x5}
 C {vsource.sym} 5160 -810 0 0 {name=V11 
 value="3.3"
  savecurrent=false}

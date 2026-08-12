@@ -790,10 +790,10 @@ mult=1}
 C {code_shown.sym} 2340 -2260 0 0 {name=s1 only_toplevel=false value="
 .include /usr/local/share/pdk/sky130A/libs.ref/sky130_fd_sc_hvl/spice/sky130_fd_sc_hvl.spice
 "}
-C {/home/titus/TinyTapeout_R2R_DAC/sky130_fd_sc_hvl__inv_1.sym} 960 -670 0 0 {name=x2}
-C {/home/titus/TinyTapeout_R2R_DAC/sky130_fd_sc_hvl__inv_1.sym} 2400 -680 0 0 {name=x3}
-C {/home/titus/TinyTapeout_R2R_DAC/sky130_fd_sc_hvl__inv_1.sym} 3840 -670 0 0 {name=x4}
-C {/home/titus/TinyTapeout_R2R_DAC/sky130_fd_sc_hvl__inv_1.sym} 5280 -680 0 0 {name=x5}
+C {sky130_fd_sc_hvl__inv_1.sym} 960 -670 0 0 {name=x2}
+C {sky130_fd_sc_hvl__inv_1.sym} 2400 -680 0 0 {name=x3}
+C {sky130_fd_sc_hvl__inv_1.sym} 3840 -670 0 0 {name=x4}
+C {sky130_fd_sc_hvl__inv_1.sym} 5280 -680 0 0 {name=x5}
 C {opin.sym} 4680 -1760 0 0 {name=p5 lab=ua[0]}
 C {ipin.sym} -120 -1730 3 0 {name=p7 lab=VGND}
 C {ipin.sym} 640 -560 3 0 {name=p4 lab=ui_in[0]}
