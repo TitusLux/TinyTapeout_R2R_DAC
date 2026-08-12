@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # "4-Bit R-2R DAC"
-  author:       ""      # "Titus Lux"
+  title:        "4-Bit R-2R DAC"      # 
+  author:       "Titus Lux"      # "Titus Lux"
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # "A 4-bit R-2R digital-to-analog converter implemented in SKY130."
+  description:  "A 4-bit R-2R digital-to-analog converter implemented in SKY130."      # 
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
