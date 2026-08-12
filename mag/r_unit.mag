@@ -1,0 +1,9 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1781382234
+use sky130_fd_pr__res_high_po_0p35_QPS5FG  sky130_fd_pr__res_high_po_0p35_QPS5FG_0 ~/matt_reference/cells
+timestamp 1709128825
+transform 1 0 148 0 1 2545
+box -201 -2598 201 2598
+<< end >>
