@@ -152,7 +152,7 @@ use sky130_fd_pr__pfet_g5v0d10v5_BRC6X7  sky130_fd_pr__pfet_g5v0d10v5_BRC6X7_1
 timestamp 1782847187
 transform 1 0 4728 0 1 -2203
 box -308 -697 308 697
-use sky130_fd_sc_hvl__inv_1__0  sky130_fd_sc_hvl__inv_1_1 ~/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hvl/mag
+use sky130_fd_sc_hvl__inv_1  sky130_fd_sc_hvl__inv_1_1 ~/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hvl/mag
 timestamp 1780855551
 transform -1 0 7750 0 -1 -1047
 box -66 -43 354 897
