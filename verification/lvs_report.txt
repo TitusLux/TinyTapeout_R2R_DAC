@@ -81,7 +81,7 @@ Cell tt_um_titus_r2r_dac disconnected node: uo_out[7]
 Cell tt_um_titus_r2r_dac disconnected node: VDPWR
 
 Subcircuit summary:
-Circuit 1: tt_um_titus_r2r_dac             |Circuit 2: dac_lvs                         
+Circuit 1: tt_um_titus_r2r_dac             |Circuit 2: r2r_dac                         
 -------------------------------------------|-------------------------------------------
 sky130_fd_pr__res_high_po_0p35 (8)         |sky130_fd_pr__res_high_po_0p35 (8)         
 sky130_fd_pr__nfet_g5v0d10v5 (8)           |sky130_fd_pr__nfet_g5v0d10v5 (8)           
@@ -94,7 +94,7 @@ Circuits match uniquely.
 Netlists match uniquely.
 
 Subcircuit pins:
-Circuit 1: tt_um_titus_r2r_dac             |Circuit 2: dac_lvs                         
+Circuit 1: tt_um_titus_r2r_dac             |Circuit 2: r2r_dac                         
 -------------------------------------------|-------------------------------------------
 VAPWR                                      |VAPWR                                      
 ui_in[3]                                   |ui_in[3]                                   
@@ -105,5 +105,5 @@ VGND                                       |VGND
 ua[0]                                      |ua[0]                                      
 ---------------------------------------------------------------------------------------
 Cell pin lists are equivalent.
-Device classes tt_um_titus_r2r_dac and dac_lvs are equivalent.
+Device classes tt_um_titus_r2r_dac and r2r_dac are equivalent.
 Circuits match uniquely.
