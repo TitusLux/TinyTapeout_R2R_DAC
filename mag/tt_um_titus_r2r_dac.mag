@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1786821452
+timestamp 1786823595
 << metal1 >>
 rect 5202 42792 6798 42812
 rect 5202 42235 5228 42792
@@ -282,7 +282,7 @@ timestamp 1786821452
 transform 1 0 -3712 0 1 36610
 box 10439 2248 28950 6647
 use r2r_ladder  r2r_ladder_1
-timestamp 1786821452
+timestamp 1786823385
 transform 1 0 18504 0 1 18621
 box -1500 0 3000 15400
 << labels >>
