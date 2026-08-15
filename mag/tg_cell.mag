@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1786652653
+timestamp 1786821452
 << locali >>
 rect 3145 -366 8456 226
 rect 3145 -3370 8456 -2778
@@ -137,23 +137,23 @@ rect 4130 -2940 4252 -2930
 rect 5205 -3624 5313 -2577
 rect 5195 -3728 5327 -3624
 use sky130_fd_pr__nfet_g5v0d10v5_XX2EF7  sky130_fd_pr__nfet_g5v0d10v5_XX2EF7_0
-timestamp 1783108964
+timestamp 1786821452
 transform 1 0 4782 0 1 -732
 box -280 -458 280 458
 use sky130_fd_pr__nfet_g5v0d10v5_XX2EF7  sky130_fd_pr__nfet_g5v0d10v5_XX2EF7_1
-timestamp 1783108964
+timestamp 1786821452
 transform 1 0 5788 0 1 -740
 box -280 -458 280 458
 use sky130_fd_pr__pfet_g5v0d10v5_BRC6X7  sky130_fd_pr__pfet_g5v0d10v5_BRC6X7_0
-timestamp 1782847187
+timestamp 1786821452
 transform 1 0 5808 0 1 -2203
 box -308 -697 308 697
 use sky130_fd_pr__pfet_g5v0d10v5_BRC6X7  sky130_fd_pr__pfet_g5v0d10v5_BRC6X7_1
-timestamp 1782847187
+timestamp 1786821452
 transform 1 0 4728 0 1 -2203
 box -308 -697 308 697
 use sky130_fd_sc_hvl__inv_1  sky130_fd_sc_hvl__inv_1_1 ~/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hvl/mag
-timestamp 1780855551
+timestamp 1786820797
 transform -1 0 7750 0 -1 -1047
 box -66 -43 354 897
 << labels >>

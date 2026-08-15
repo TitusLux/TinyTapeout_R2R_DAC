@@ -1,9 +1,9 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1781382074
-use sky130_fd_pr__res_high_po_0p35_3KK54B  sky130_fd_pr__res_high_po_0p35_3KK54B_0 ~/matt_reference/cells
-timestamp 1709128825
+timestamp 1786821452
+use sky130_fd_pr__res_high_po_0p35_3KK54B  sky130_fd_pr__res_high_po_0p35_3KK54B_0
+timestamp 1786820179
 transform 1 0 -352 0 1 4319
 box -201 -4598 201 4598
 << end >>

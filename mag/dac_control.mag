@@ -1,24 +1,24 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1786652653
+timestamp 1786821452
 << viali >>
 rect 10786 5800 28589 6100
 rect 10786 2700 28589 3000
 use tg_cell  tg_cell_2
-timestamp 1786652653
+timestamp 1786821452
 transform 1 0 7294 0 1 5976
 box 3145 -3728 8456 671
 use tg_cell  tg_cell_4
-timestamp 1786652653
+timestamp 1786821452
 transform 1 0 11694 0 1 5976
 box 3145 -3728 8456 671
 use tg_cell  tg_cell_5
-timestamp 1786652653
+timestamp 1786821452
 transform 1 0 16094 0 1 5976
 box 3145 -3728 8456 671
 use tg_cell  tg_cell_6
-timestamp 1786652653
+timestamp 1786821452
 transform 1 0 20494 0 1 5976
 box 3145 -3728 8456 671
 << end >>
